@@ -1,1 +1,0 @@
-# MedInstruct-AI-Assistant
